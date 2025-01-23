@@ -1,23 +1,23 @@
 # 🎵 **Annie Music** 🎶
 
-[Annie Music](https://github.com/moonshining1/Annie-Music) is an updated version of [AnnieMusicBot](https://github.com/moonshining1/Annie-Music) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
+[╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®](https://github.com/BABY-X-MUSIC/BABY) is an updated version of [╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®](https://github.com/BABY-X-MUSIC/BABY) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
 
-If you’re using or forking this project, please ⭐ star the original repo: [AnnieMusicBot](https://github.com/moonshining1/Annie-Music) to show support! 🙌
+If you’re using or forking this project, please ⭐ star the original repo: [╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®](https://github.com/BABY-X-MUSIC/BABY) to show support! 🙌
 
 ---
 
 ## 🚀 Heroku Deployment
 
-Deploy **Annie Music Bot** on Heroku easily:
+Deploy **╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®** on Heroku easily:
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/moonshining1/Annie-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/BABY-X-MUSIC/BABY"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
 
 ---
 ## 🖇️ VPS Deployment Guide
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/moonshining1/Annie-Music && cd Annie-Music
+   git clone https://github.com/BABY-X-MUSIC/BABY && cd BABY
    ```
 
 2. **Run the setup**
@@ -52,8 +52,8 @@ To get started with configuring Yukki Music, check out the detailed instructions
 If you need help or have any questions, feel free to reach out through any of these channels:
 
 - [GitHub Issues](https://github.com/moonshining1/Annie-Music/issues/new?assignees=&labels=question&title=support%3A+&body=%23+Support+Question): Open a support question on GitHub.
-- [Telegram Profile](https://t.me/moonshining2): Directly contact the maintainer.
-- [Telegram Support Group](https://t.me/grandxmasti): Join our support group for live assistance.
+- [Telegram Profile](https://t.me/UFC_INOCENT): Directly contact the maintainer.
+- [Telegram Support Group](https://t.me/UFC_LINK_ZONE): Join our support group for live assistance.
 
 ---
 
