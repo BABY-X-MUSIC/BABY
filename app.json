@@ -1,7 +1,7 @@
 {
-    "name": "ANNIEMUSIC",
+    "name": "𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://files.catbox.moe/6iv99c.jpg",
+    "logo": "hhttps://files.catbox.moe/r6cw0b.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -91,7 +91,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/moonshining1/ANNIE-MUSIC",
+        "value": "https://github.com/BABY-X-MUSIC/BABY",
         "required": true
       },
       "UPSTREAM_BRANCH": {
