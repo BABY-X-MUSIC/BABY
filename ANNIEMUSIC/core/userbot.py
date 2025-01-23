@@ -65,10 +65,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("about_ur_moonshining")
-                await self.one.join_chat("kittyxupdates")
-                await self.one.join_chat("grandxmasti")
-                await self.one.join_chat("Naruto_Shippuden_hindi_dubbed_x")
+                await self.one.join_chat("UFC_LINK_ZONE")
+                await self.one.join_chat("UFC_NETWORK")
+                await self.one.join_chat("ll_P_U_L_lI")
+                await self.one.join_chat("ll_DPZ_GIFS_ll")
             except:
                 pass
             assistants.append(1)
@@ -121,10 +121,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("about_ur_moonshining")
-                await self.three.join_chat("kittyxupdates")
-                await self.three.join_chat("grandxmasti")
-                await self.three.join_chat("Naruto_Shippuden_hindi_dubbed_x")
+                await self.one.join_chat("UFC_LINK_ZONE")
+                await self.one.join_chat("UFC_NETWORK")
+                await self.one.join_chat("ll_P_U_L_lI")
+                await self.one.join_chat("ll_DPZ_GIFS_ll")
             except:
                 pass
             assistants.append(3)
@@ -149,10 +149,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("about_ur_moonshining")
-                await self.four.join_chat("kittyxupdates")
-                await self.four.join_chat("grandxmasti")
-                await self.four.join_chat("Naruto_Shippuden_hindi_dubbed_x")
+                await self.one.join_chat("UFC_LINK_ZONE")
+                await self.one.join_chat("UFC_NETWORK")
+                await self.one.join_chat("ll_P_U_L_lI")
+                await self.one.join_chat("ll_DPZ_GIFS_ll")
             except:
                 pass
             assistants.append(4)
@@ -177,10 +177,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("about_ur_moonshining")
-                await self.five.join_chat("kittyxupdates")
-                await self.five.join_chat("grandxmasti")
-                await self.five.join_chat("Naruto_Shippuden_hindi_dubbed_x")
+                await self.one.join_chat("UFC_LINK_ZONE")
+                await self.one.join_chat("UFC_NETWORK")
+                await self.one.join_chat("ll_P_U_L_lI")
+                await self.one.join_chat("ll_DPZ_GIFS_ll")
             except:
                 pass
             assistants.append(5)
