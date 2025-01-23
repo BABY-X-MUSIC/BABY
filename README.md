@@ -1,6 +1,6 @@
 # 🎵 **𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ** 🎶
 
-[𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ](https://github.com/BABY-X-MUSIC/BABY) is an updated version of [╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®](https://github.com/BABY-X-MUSIC/BABY) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
+[𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ](https://github.com/BABY-X-MUSIC/BABY) is an updated version of [𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ](https://github.com/BABY-X-MUSIC/BABY) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
 
 If you’re using or forking this project, please ⭐ star the original repo: [𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ](https://github.com/BABY-X-MUSIC/BABY) to show support! 🙌
 
