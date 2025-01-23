@@ -1,14 +1,14 @@
-# 🎵 **Annie Music** 🎶
+# 🎵 **𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ** 🎶
 
-[╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®](https://github.com/BABY-X-MUSIC/BABY) is an updated version of [╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®](https://github.com/BABY-X-MUSIC/BABY) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
+[𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ](https://github.com/BABY-X-MUSIC/BABY) is an updated version of [╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®](https://github.com/BABY-X-MUSIC/BABY) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
 
-If you’re using or forking this project, please ⭐ star the original repo: [╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®](https://github.com/BABY-X-MUSIC/BABY) to show support! 🙌
+If you’re using or forking this project, please ⭐ star the original repo: [𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ](https://github.com/BABY-X-MUSIC/BABY) to show support! 🙌
 
 ---
 
 ## 🚀 Heroku Deployment
 
-Deploy **╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅʂ ] ®** on Heroku easily:
+Deploy **𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ** on Heroku easily:
 
 <a href="https://dashboard.heroku.com/new?template=https://github.com/BABY-X-MUSIC/BABY"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
 
@@ -41,7 +41,7 @@ Deploy **╼⃝𖠁 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ 𖠁⃝╾ 𝐀i [ ɴᴏ ᴀᴅ�
 
 ___
 
-# 🎶 Annie Music Configurations
+# 🎶 𝐁ᴀʙʏ⟡𝐌ᴜsɪᴄ Configurations
 
 To get started with configuring Yukki Music, check out the detailed instructions [here](https://github.com/moonshining1/Annie-Music/blob/master/config/README.md).
 
